@@ -4,13 +4,16 @@ export const Bio = {
     "Front-End Developer",
     "Back-End Developer",
     "UI/UX Designer",
+    "Webflow Developer",
+    "WordPress Developer",
+  
     "Programmer",
   ],
   description:
     "I am a highly motivated and adaptable individual, constantly seeking new challenges. My passion for learning drives me to deliver top-notch results. With a positive outlook and a growth mindset, I am committed to making a significant impact and achieving remarkable success.",
   github: "https://github.com/Faruqbabajide",
   resume:
-    "https://docs.google.com/document/d/1Xo8RZbrR0m3Fcj16xWxhAVBsN6ZhJ9hk/edit?usp=sharing&ouid=110204887800926048453&rtpof=true&sd=true",
+    "https://drive.google.com/file/d/1ClYACJM-lOUQkkE7eNJh7zysh17gh6PX/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/faruq-babajide-34b4b0246/",
   twitter: "https://twitter.com/Faruqolami",
   insta: "https://www.instagram.com/faruqolamii/",
@@ -83,12 +86,12 @@ export const skills = [
       {
         name: "Python",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+          "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/python-svgrepo-com.svg?alt=media&token=61f16ea5-d5bc-4478-8799-ca8bef4dc453",
       },
       {
         name: "MySQL",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+          "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/mysql-logo-svgrepo-com.svg?alt=media&token=e4c13365-f6cb-4167-8018-5b787ea41f8d",
       },
       {
         name: "Postgresql",
@@ -97,7 +100,7 @@ export const skills = [
       {
         name: "MongoDB",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+          "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/docker-svgrepo-com.svg?alt=media&token=fc5702e1-c19b-4a67-924b-72c2106c8179",
       },
       {
         name: "Firebase",
@@ -111,7 +114,7 @@ export const skills = [
       {
         name: "Figma",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+          "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/figma-svgrepo-com.svg?alt=media&token=14d21306-6122-4012-b7d7-89ceac796a51",
       },
       {
         name: "AdobeXD",
@@ -138,12 +141,12 @@ export const skills = [
       {
         name: "Docker",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
+          "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/docker-svgrepo-com.svg?alt=media&token=fc5702e1-c19b-4a67-924b-72c2106c8179",
       },
       {
         name: "Netlify",
         image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+          "https://cdn.brandfetch.io/idoW6GB9ca/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1746443990535",
       },
       {
         name: "VS Code",
@@ -172,34 +175,48 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "DevOps & Fullstack Engineering Intern",
-    company: "Flipr Inovations Pvt. Ltd.",
-    date: "Aug 2023 - July 2023",
-    desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+    img: "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/coincircuithq_logo.jpg?alt=media&token=7cae7b41-a7da-42bf-a223-acf0c6939132",
+    role: "Backend Developer",
+    company: "Coin Circuit",
+    date: "july 2025 - September 2025",
+    desc: "Built and maintained backend services and APIs, implementing business logic and database operations to support scalable applications.Built and maintained backend services and APIs, implementing business logic and database operations to support scalable applications for Coincircuit Crypto Payment processor .",
     skills: [
-      "Docker",
-      "Terraform",
-      "AWS",
-      "EC2",
-      "Portainer",
-      "Nginx",
+      "Express Js",
+      "Python",
+      "NodeJs",
       "JavaScript",
-      "TypeScript",
-      "Node Js",
-      " Next Js",
+      "Telegram bot Automation",
+      "Web3",
     ],
-    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+    
   },
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/5847f981cef1014c0b5e48be.png?alt=media&token=d781c58d-6851-4a9a-92a9-70cd68170a58",
-    role: "Back-End Developer",
-    company: "InternPulse",
-    date: "June 2023 - Present",
-    desc: "Working on the frontend of the web application using PostMan, ExpressJS, and Material UI.",
+    img: "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/53c30e35-193c-40fe-b693-631f7715c798%20(1).jpeg?alt=media&token=b5bb397b-4160-4080-9b61-40d1e468004f",
+    role: "UI/UX Designer",
+    company: "Beyond Barriers",
+    date: "july 2024 - Present",
+    desc: "Working on the frontend UI features for a of the mobile application using Figma and Adobe XD",
     skills: [
-      "ReactJS",
+      "Figma",
+      "Adobe XD",
+      "NodeJs",
+      "Material UI",
+      "HTML",
+      "CSS",
+      "JavaScript",
+    ],
+    
+  },
+  {
+    id: 0,
+    img: "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/fugk.png?alt=media&token=3fbcead3-ef25-48f7-be31-60e64debb7d5",
+    role: "Webflow Developer",
+    company: "Faltech Limited",
+    date: "January 2024 - July 2024",
+    desc: "Working on the frontend of the web application using Webflow and Material UI.",
+    skills: [
+      "WebFlow",
       "Redux",
       "NodeJs",
       "Material UI",
@@ -207,26 +224,38 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+    
   },
   {
-    id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Fullstack Extrnship",
-    company: "Flipr",
-    date: "June 2023 - July 2023",
-    desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
+    id: 0,
+    img: "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/Screenshot%202024-08-02%20101544.png?alt=media&token=42d72173-c630-4d90-948e-34fd6a1f833f",
+    role: "Back-End Developer",
+    company: "InternPulse",
+    date: "June 2023 - Present",
+    desc: "🛠️ Developed over 10 Microservices for FamTrust, a Fintech web application focused on managing family accounts and Developed six microservices for PropertyHive, a B2C platform that streamlines real estate transactions,",
     skills: [
       "ReactJS",
       "Redux",
       "NodeJs",
-      "Material UI",
       "HTML",
       "CSS",
       "JavaScript",
-      "Docker",
-      "AWS",
-      "MongoDB",
+    ],
+  
+    doc:"https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/Faruq%20Olami%20-%20InternPulse%20Finalist%20Certificate.png?alt=media&token=24549a70-06a6-4533-b988-6aceb927077c"
+  },
+  {
+    id: 1,
+    img: "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/Removal-15.png?alt=media&token=cfdcaadb-7b90-49fa-8311-1e125789534a",
+    role: "Production Manager",
+    company: "Sonic Informatics",
+    date: "June 2023 - July 2023",
+    desc: "Spearheaded the development of a cutting-edge garbage filler detector project at Sonic Informatics.",
+    skills: [
+      "Programming",
+      "Leadership skill",
+      "Arduinp UNO",
+      "Robotics",
     ],
   },
  
@@ -237,16 +266,16 @@ export const education = [
   {
     id: 0,
     img: "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/images.png?alt=media&token=f53aaef5-94da-4327-ad8b-1c45b7b38157",
-    school: "Pan- Atlantic Unniversity",
+    school: "Pan- Atlantic University",
     date: "Oct 2022 - Sep 2026",
-    grade: "4.5 CGPA",
+    grade: "4.3 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science at Pan-Atlantic University , Lagos. I have completed 4 semesters and have a CGPA of 4.5.I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Technology and Innovation Club (TIC) at PAU, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Science - BSc, Computer Science ",
   },
   {
     id: 1,
     img: "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/images.jpg?alt=media&token=0c4d81fe-0997-4c86-ae51-09175b2f1165",
-    school: "Heritage Global Academy,Lagos",
+    school: "Heritage Global Academy",
     date: "Apr 2012 - Apr 2022",
     grade: "71.25%",
     desc: "I completed my class 12 high school education at Heritage Global Academy in Lagos, specializing in Science. During my time there, I actively participated in robotics, organized various student activities, and competed in Math and Science competitions. I was also involved in event management within the school. Consistently ranking among the top three students in my class, I demonstrated academic excellence. Additionally, I participated in Junior Achievement Nigeria (JAN) as a production manager, where I helped develop a garbage monitoring system that detects when garbage is full and sends alerts to the garbage management authority. ",
@@ -256,67 +285,156 @@ export const education = [
 ];
 
 export const projects = [
-
   {
     id: 0,
-    title: "Flixify",
-    date: "August 2023",
+    title: "E-commerce Websites",
+    date: "December 2024/2025",
     description:
-      "• A web application that lets you seamlessly explore movies and TV series, add bookmarks, and search across all pages. It offers use",
+      "Developed  E-Commerce demo websites for software startup and small businesses, to showcase their services and mark their online presence.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["TypeScript", "Tailwind CSS", "Next.js", "Next Auth", "PostgreSQL"],
-    category: "Web App",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+      "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/1735750410390-ezgif.com-cut.gif?alt=media&token=781473ce-53da-429b-82e5-3c4956376e78",
+    tags: ["API development", "Tailwind CSS", "ReactJS", "RESTAPI", "PostgreSQL","UI",".NET"],
+    category: "web app",
+    github: "https://github.com/faruq/",
+    webapp: "https://ecom.netlify.app/",
     member: [
       {
         name: "Faruq Olami",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.lircnkedin.com/in/rishav-chanda-b89a791b3/",
+        img: "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/HeroImage.jpg?alt=media&token=a0c6d52e-ea94-4755-a259-38e9b77ea199",
+        linkedin: "",
         github: "https://github.com/faruqbabajide/",
       }
       
     ],
   },
   {
+    id: 0,
+    title: "FarmTrust",
+    date: "September 2024",
+    description:
+      "Developed 4 Microservices for FamTrust, a Fintech web application focused on managing family accounts.Collaborated with a cross-functional team, including Project Managers, Frontend, and Backend Developers, leveraging tech stacks like Django and the MERN stack.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/1728684317741.jpg?alt=media&token=2e743911-c820-4c5f-9f7c-e89318f9d2f2",
+    tags: ["API development", "Tailwind CSS", "ReactJS", "RESTAPI", "PostgreSQL","UI"],
+    category: "web app",
+    github: "https://github.com/faruq/",
+    webapp: "https://properthive.netlify.app/",
+    member: [
+      {
+        name: "Faruq Olami",
+        img: "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/HeroImage.jpg?alt=media&token=a0c6d52e-ea94-4755-a259-38e9b77ea199",
+        linkedin: "",
+        github: "https://github.com/faruqbabajide/",
+      }
+      
+    ],
+  },
+  {
+    id: 0,
+    title: "Propellant",
+    date: "August 2023",
+    description:
+      "A SaaS  website built for a software startup and small business, to showcase their services and mark their online presence.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/Screenshot%202024-12-06%20211059.png?alt=media&token=b1687687-ac0e-412e-ab2e-2f5e8bb6e86e",
+    tags: ["TypeScript", "Tailwind CSS", "Next.js", "Next Auth", "PostgreSQL"],
+    category: "web app",
+    github: "https://github.com/faruq/Podstream",
+    webapp: "https://propellant.netlify.app/",
+    member: [
+      {
+        name: "Faruq Olami",
+        img: "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/HeroImage.jpg?alt=media&token=a0c6d52e-ea94-4755-a259-38e9b77ea199",
+        linkedin: "",
+        github: "https://github.com/faruqbabajide/",
+      }
+      
+    ],
+  },
+  {
+    id: 0,
+    title: "URL Link Shortner",
+    date: "August 2024",
+    description:
+      "• A web application that lets users shorten URLs. Users can also view the number of times a shortened URL has been clicked.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/Screenshot%202025-03-06%20020540.png?alt=media&token=b495bcbd-7aba-4647-8d10-343d30e8335c",
+    tags: ["Javascript", "HTML", "CSS", "Next Auth", "PostgreSQL","Bitly API"],
+    category: "web app",
+    github: "https://github.com/faruqbabajide",
+    webapp: "https://shortnerclif.netlify.app/",
+    member: [
+      {
+        name: "Faruq Olami",
+        img: "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/HeroImage.jpg?alt=media&token=a0c6d52e-ea94-4755-a259-38e9b77ea199",
+        linkedin: "",
+        github: "https://github.com/faruqbabajide/",
+      }
+      
+    ],
+  },
+  {
+    id: 0,
+    title: "Property Hive",
+    date: "August 2024",
+    description:
+      "Developed six microservices for PropertyHive, a B2C platform that streamlines real estate transactions, contributing to a solution accessible to both individuals and companies globally.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/1728684457390.jpg?alt=media&token=20ace9d8-e675-4442-9e83-b8eb2e9b02f9",
+    tags: ["API development", "Tailwind CSS", "ReactJS", "RESTAPI", "PostgreSQL"],
+    category: "ui",
+    github: "https://github.com/faruq/",
+    webapp: "https://properthive.netlify.app/",
+    member: [
+      {
+        name: "Faruq Olami",
+        img: "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/HeroImage.jpg?alt=media&token=a0c6d52e-ea94-4755-a259-38e9b77ea199",
+        linkedin: "",
+        github: "https://github.com/faruqbabajide/",
+      }
+      
+    ],
+  },
+ 
+  {
     id: 1,
     title: "Vexa",
-    date: "Oct 2022 - Present",
+    date: "Oct 2023",
     description:
       "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/vexa.png?alt=media&token=a0c2749e-6ad1-4a01-b513-7a594597a080",
     tags: [
       "React Js",
       "MongoDb",
       "Node Js",
       "Express Js",
       "Redux",
+      "Google Auth",
       "NodeMailer",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
+    github: "https://github.com/FaruqBabajide",
     webapp: "https://vexa-app.netlify.app/",
   },
   {
     id: 2,
     title: "Brain Tumor Detection",
-    date: "Jan 2023 - Mar 2023",
+    date: "June 2024",
     description:
       "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+      "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/Image2.png?alt=media&token=5127de4c-73e4-4317-a228-cae85e264aec",
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+    github: "https://github.com/Brain-Tumor-Detection",
     webapp: "https://brain-tumor.netlify.app/",
     member: [
       {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
+        name: "Faruq Olami",
+        img: "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/HeroImage.jpg?alt=media&token=a0c6d52e-ea94-4755-a259-38e9b77ea199",
+        linkedin: "https://www.linkedin.com/",
+        github: "https://github.com/",
       },
      
     ],
@@ -324,16 +442,16 @@ export const projects = [
   
   {
     id: 10,
-    title: "Job Finding App",
-    date: "Jun 2023 - Jul 2023",
+    title: "Skywatch",
+    date: "Jun 2023 ",
     description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+      "A web application that provides users with up-to-date weather information, including the current weather conditions and a 2-day forecast.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["React Native", "JavaScript", "Axios"],
+      "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/skywatch.png?alt=media&token=f0404ed7-e838-49c5-b3ac-91a5327e93ed",
+    tags: ["React Native", "JavaScript", "Axios", "OpenWeatherMap API", "wearther API", "Chart.js","GeoLocationAPI"],
     category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
+    github: "https://github.com/faruqbabajide",
+    webapp: "https://github.com/skywatch",
   },
   {
     id: 4,
@@ -349,45 +467,83 @@ export const projects = [
     webapp: "https://ssa.com",
   },
   {
-    id: 5,
-    title: "Todo Web App",
-    date: "Jun 2021",
+    id: 4,
+    title: "Website Banner",
+    date: "Jul 2024",
     description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+      "Made a Website banner  for a company for branding purpose",
     image:
-      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
+      "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/1.jpg?alt=media&token=37927bda-f62e-4dc3-a7eb-aba7816646f7",
+    tags: ["Canva", "figma", "Adobe xd"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
-    webapp: "https://rishav-react-todo.netlify.app/",
+    github: "https://github.com/",
+    webapp: "https://ssa.com",
   },
   {
-    id: 6,
-    title: "Breaking Bad",
-    date: "Jun 2021",
+    id: 4,
+    title: "Social Media Assests",
+    date: "August 2024",
     description:
-      "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
+      "Made series of social media illustrative design for companies for branding and information purposes",
     image:
-      "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
-    tags: ["React Js", "API", "Axios", "Node JS"],
+      "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/SADasda.png?alt=media&token=153efb5a-b3fe-43ad-907a-eb26362a0c22",
+    tags: ["Canva", "figma", "Adobe xd"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Breaking-Bad",
-    webapp: "https://breaking-bad-webapp.netlify.app",
+    github: "https://github.com/",
+    webapp: "https://ssa.com",
   },
   {
-    id: 7,
-    title: "Quiz App",
-    date: "Dec 2020 - Jan 2021",
+    id: 4,
+    title: "Restaurant poster",
+    date: "Jul 2024",
     description:
-      "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
+      "Made a restaurant poster  for a small restaurant business owner for advertisement purpose",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
+      "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/5.jpg?alt=media&token=2e54473e-45d8-4d6d-8053-00ddff733ecc",
+      tags: ["Canva", "figma", "Adobe xd"],
+    category: "BR",
+    github: "https://github.com/",
+    webapp: "https://ssa.com",
+  },
+  {
+    id: 4,
+    title: "Illustration Design",
+    date: "June 2024",
+    description:
+      "Made a simple illustaion for medicine niche",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/2.png?alt=media&token=f8d2546e-ead6-41d5-bea0-a6d7cdec6af4",
+   tags: ["Canva", "figma", "Adobe xd"],
+    category: "BR",
+    github: "https://github.com/",
+    webapp: "https://ssa.com",
+  },
+  {
+    id: 4,
+    title: "Membership Poster",
+    date: "June 2024",
+    description:
+      "Made a poster to showcase Membership for a brand",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/9.jpg?alt=media&token=1eef0cae-e565-478f-96ac-bf58f10fa56e",
+   tags: ["Canva", "figma", "Adobe xd"],
+    category: "BR",
+    github: "https://github.com/",
+    webapp: "https://ssa.com",
+  },
+  {
+    id: 4,
+    title: "Application UI",
+    date: "June 2024",
+    description:
+      "Made an application UI  to showcase and app interface logo design",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portf-2a39a.appspot.com/o/bj.webp?alt=media&token=81e6ce76-01b7-4605-b3d4-5453833acf08",
+   tags: ["Canva", "figma", "Adobe xd"],
     category: "android app",
-    github: "https://github.com/rishavchanda/Quiz-Earn",
-    webapp: "https://github.com/rishavchanda/Quiz-Earn",
+    github: "https://github.com/",
+    webapp: "https://ssa.com",
   },
-  
 ];
 
 export const TimeLineData = [

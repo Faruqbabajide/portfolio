@@ -12,7 +12,7 @@ const Projects = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          I have worked on a wide range of projects. From web apps to android apps. Here are some of my projects.
+          I have worked on a wide range of projects. From Web application, Mobile apps (Designs) and AI System. Here are some of my projects.
         </Desc>
         <ToggleButtonGroup >
           {toggle === 'all' ?
@@ -34,10 +34,23 @@ const Projects = ({openModal,setOpenModal}) => {
           }
           <Divider />
           {toggle === 'machine learning' ?
-            <ToggleButton active value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
+            <ToggleButton active value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING/AI</ToggleButton>
             :
-            <ToggleButton value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
+            <ToggleButton value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING/AI</ToggleButton>
           }
+           <Divider />
+          {toggle === 'ui' ?
+            <ToggleButton active value="ui" onClick={() => setToggle('ui')}>UI/UX</ToggleButton>
+            :
+            <ToggleButton value="ui" onClick={() => setToggle('ui')}>UI/UX</ToggleButton>
+          }
+           <Divider />
+          {toggle === 'BR' ?
+            <ToggleButton active value="BR" onClick={() => setToggle('BR')}>BRANDING ASSETS</ToggleButton>
+            :
+            <ToggleButton value="BR" onClick={() => setToggle('BR')}>BRANDING ASSETS</ToggleButton>
+          }
+          
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === 'all' && projects
